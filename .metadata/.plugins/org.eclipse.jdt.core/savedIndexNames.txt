@@ -35,7 +35,6 @@ INDEX VERSION 1.134+C:\Users\japao\OneDrive\Desktop\GestioneIncendi-main\.metada
 2190450983.index
 3480056511.index
 2613175000.index
-255638518.index
 2043536421.index
 2434168895.index
 2295427608.index
